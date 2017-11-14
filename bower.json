@@ -1,0 +1,17 @@
+{
+  "name": "ping-pong",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "DaveKOregon <davek@dsandfamily.com>"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
